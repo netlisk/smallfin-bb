@@ -30,7 +30,6 @@ modules:
       - ibus-mozc
       - adw-gtk3-theme
       - mozc
-      - solaar
 
   - type: default-flatpaks
     notify: true # Send notification after install/uninstall is finished (true/false)
